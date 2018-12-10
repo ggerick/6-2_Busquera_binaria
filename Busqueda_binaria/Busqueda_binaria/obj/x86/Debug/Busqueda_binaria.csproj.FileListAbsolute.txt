@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Busqueda_binaria/Busqueda_binaria/bin/Debug/Busqueda_binaria.exe
+/Users/AlanGarcia/Projects/Busqueda_binaria/Busqueda_binaria/bin/Debug/Busqueda_binaria.pdb
+/Users/AlanGarcia/Projects/Busqueda_binaria/Busqueda_binaria/obj/x86/Debug/Busqueda_binaria.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Busqueda_binaria/Busqueda_binaria/obj/x86/Debug/Busqueda_binaria.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Busqueda_binaria/Busqueda_binaria/obj/x86/Debug/Busqueda_binaria.exe
+/Users/AlanGarcia/Projects/Busqueda_binaria/Busqueda_binaria/obj/x86/Debug/Busqueda_binaria.pdb
